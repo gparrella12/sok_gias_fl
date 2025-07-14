@@ -1,37 +1,24 @@
 # SoK: Gradient Inversion Attacks in Federated Learning
+[![arXiv](https://img.shields.io/badge/usenix-paper-8f1d05.svg)](https://www.usenix.org/conference/usenixsecurity25/presentation/carletti)
+[![license](https://img.shields.io/github/license/gparrella12/sok_gias_fl)](./LICENSE)
 
-This repository hosts and maintains up-to-date tables of Gradient Inversion Attacks and defenses in Federated Learning, following the categorization and threat model taxonomy introduced in our paper.
+
+
+This repository hosts and maintains up-to-date systematization of Gradient Inversion Attacks and defenses in Federated Learning, following the categorization and threat model taxonomy introduced in our paper.
 
 The tables are structured to provide a clear, comparative overview of the state-of-the-art, including:
 - **Attack techniques** and their properties
 - **Defense mechanisms** and their effectiveness
 - **Threat models** with real-world applicability
 
-Our goal is to offer a living resource for researchers and practitioners, reflecting the latest developments and evaluations in the field.  
+Our goal is to offer a living resource for researchers and practitioners, reflecting the latest developments and evaluations in the field.
 Tables will be updated regularly as new works and insights emerge.
 
-Feel free to open issues or pull requests to suggest updates or corrections!
+Feel free to open issues or pull requests to suggest updates or corrections.
 
----
-# Citation
+For further information, please contact: gparrella@unisa.it
 
-If you find this repository useful for your research, please consider citing our work:
 
-```bibtex
-@inproceedings{carletti2025sok,
-  title     = {SoK: Gradient Inversion Attacks in Federated Learning},
-  author    = {Vincenzo Carletti, Pasquale Foggia, Carlo Mazzocca, Giuseppe Parrella and Mario Vento},
-  booktitle = {34th USENIX Security Symposium (USENIX Security 25)},
-  year      = {2025},
-}
-```
----
-
-**Abstract:** Federated Learning (FL) is a promising paradigm for collaboratively training Machine Learning (ML) models while preserving the privacy of data owners.
-By allowing participants to maintain their data on-site, FL avoids sending client local data to a central server for model training. However, despite its evident privacy benefits, it is not immune to security and privacy threats. Among these, Gradient Inversion Attacks (GIAs) stand out as one of the most critical as they exploit client's model updates to reconstruct local training data, breaking participant's privacy. This work presents a comprehensive systematization of GIAs in FL. First, we identify various threat models defining the adversary's knowledge and capabilities to perform these attacks. Then, we propose a systematic taxonomy to categorize GIAs, providing practical insights into their methods and applicability. Additionally, we explore defensive mechanisms designed to mitigate these attacks. 
-We also systematize evaluation metrics used to measure the success of GIAs and assess the model's vulnerability before an attack. Finally, based on a thorough analysis of the existing literature, we identify key challenges and outline promising future research directions.
-
----
 
 ## Threat Models
 | **ID** | **Threat Model**             | **Model Updates** | **Basic Knowledge** | **Training Details** | **Surrogate Data** | **Client Data Distribution** | **Active Manipulation** | **Client Selection** | **Real-World Applicability** |
@@ -198,3 +185,20 @@ We also systematize evaluation metrics used to measure the success of GIAs and a
 [16] Liu, Y., et al. (2025). Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion. AAAI.  
 [19] Xue, Y., et al. (2023). Fast Generation-Based Gradient Leakage Attacks against Highly Compressed Gradients. IEEE INFOCOM.  
 [22] Fang, Y., et al. (2023). GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization. ICCV.  
+
+
+---
+# Citation
+
+If you find this repository useful for your research, please consider citing our work:
+
+```bibtex
+@inproceedings{carletti2025sok,
+  title     = {SoK: Gradient Inversion Attacks in Federated Learning},
+  author    = {Vincenzo Carletti, Pasquale Foggia, Carlo Mazzocca, Giuseppe Parrella and Mario Vento},
+  booktitle = {34th USENIX Security Symposium (USENIX Security 25)},
+  year      = {2025},
+}
+```
+---
+
