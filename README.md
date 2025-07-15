@@ -18,6 +18,23 @@ Feel free to open issues or pull requests to suggest updates or corrections.
 
 For further information, please contact: gparrella@unisa.it
 
+---
+## Citation
+
+If you find this repository useful for your research, please consider citing our work:
+
+```bibtex
+@inproceedings{carletti2025sok,
+  title     = {SoK: Gradient Inversion Attacks in Federated Learning},
+  author    = {Vincenzo Carletti, Pasquale Foggia, Carlo Mazzocca, Giuseppe Parrella and Mario Vento},
+  booktitle = {34th USENIX Security Symposium (USENIX Security 25)},
+  year      = {2025},
+}
+```
+---
+
+
+
 
 
 ## Threat Models
@@ -212,19 +229,4 @@ For further information, please contact: gparrella@unisa.it
 [57] Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks [paper](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_3)
 [58] PRECODE - A Generic Model Extension To Prevent Deep Gradient Leakage [GitHub](https://github.com/dAI-SY-Group/PRECODE) [paper](https://openaccess.thecvf.com/content/WACV2022/html/Scheliga_PRECODE_-_A_Generic_Model_Extension_To_Prevent_Deep_Gradient_WACV_2022_paper.html#:~:text=%5B-,paper,-%5D%20%5Bsupp%5D) 
 [59] Gradient Leakage Defense with Key-Lock Module for Federated Learning [GitHub](https://github.com/Rand2AI/FedKL)  [paper](https://arxiv.org/abs/2305.04095)
-
----
-# Citation
-
-If you find this repository useful for your research, please consider citing our work:
-
-```bibtex
-@inproceedings{carletti2025sok,
-  title     = {SoK: Gradient Inversion Attacks in Federated Learning},
-  author    = {Vincenzo Carletti, Pasquale Foggia, Carlo Mazzocca, Giuseppe Parrella and Mario Vento},
-  booktitle = {34th USENIX Security Symposium (USENIX Security 25)},
-  year      = {2025},
-}
-```
----
 
