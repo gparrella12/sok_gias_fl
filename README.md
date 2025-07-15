@@ -207,26 +207,47 @@ If you find this repository useful for your research, please consider citing our
 
 **References:**  
 [37] Learning Differentially Private Recurrent Language Models. [paper](https://arxiv.org/abs/1710.06963)
+
 [38] FedCDP: Client-level Differential Privacy for Federated Learning. IEEE ICDCS [paper](https://ieeexplore.ieee.org/abstract/document/9546481)
+
 [39] Does Differential Privacy Really Protect Federated Learning From Gradient Leakage Attacks? [paper](https://ieeexplore.ieee.org/abstract/document/10568968)
+
 [40] Sok: Secure aggregation based on cryptographic schemes for federated learning. [paper](https://petsymposium.org/popets/2023/popets-2023-0009.php#:~:text=popets%2D2023%2D0009-,Download%20paper,-Abstract%3A%20Secure)
+
 [41] Practical Secure Aggregation for Privacy-Preserving Machine Learning. CCS.  [paper](https://dl.acm.org/doi/abs/10.1145/3133956.3133982)
+
 [42] Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks. AAAI [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28460)
+
 [43] Preserving data privacy in federated learning through large gradient pruning. CoSe [paper](https://www.sciencedirect.com/science/article/pii/S016740482200431X)
+
 [44] Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Auditing_Privacy_Defenses_in_Federated_Learning_via_Generative_Gradient_Leakage_CVPR_2022_paper.paper)
+
 [45] Soteria: Provable Defense Against Privacy Leakage in Federated Learning. [GitHub](https://github.com/jeremy313/Soteria)  [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.paper)
+
 [46] Protect Privacy from Gradient Leakage Attack in Federated Learning [GitHub](https://github.com/wangjunxiao/GradDefense)  [paper](https://ieeexplore.ieee.org/abstract/document/9796841)
+
 [47] More Than Enough is Too Much: Adaptive Defenses Against Gradient Leakage in Production Federated Learning [paper](https://ieeexplore.ieee.org/document/10477938)
 [48] CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling. NDSS 2025 [GitHub](https://github.com/KaiyuanZh/censor) [paper](https://kaiyuanzhang.com/publications/NDSS25_Censor.paper)
+
 [49] Digestive neural networks: A novel defense strategy against inference attacks in federated learning [paper](https://www.sciencedirect.com/science/article/pii/S0167404821002029)
+
 [50] Enhanced Security and Privacy via Fragmented Federated Learning [GitHub](https://github.com/najeebjebreel/FFL)  [paper](https://ieeexplore.ieee.org/abstract/document/9925189)
+
 [51] Enhancing Privacy Preservation in Federated Learning via Learning Rate Perturbation. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wan_Enhancing_Privacy_Preservation_in_Federated_Learning_via_Learning_Rate_Perturbation_ICCV_2023_paper.paper)
+
 [52] Automatic Transformation Search Against Deep Leakage from Gradients [GitHub](https://github.com/gaow0007/ATSPrivacy)  [paper](https://ieeexplore.ieee.org/document/10086616)
+
 [53] Bayesian Framework for Gradient Leakage [paper](https://arxiv.org/paper/2111.04706) 
+
 [54] Privacy-Encoded Federated Learning Against Gradient-Based Data Reconstruction Attacks [paper](https://ieeexplore.ieee.org/abstract/document/10231369)
+
 [55] Gradient Inversion Attacks: Impact Factors Analyses and Privacy Enhancement [GitHub](https://github.com/MiLab-HITSZ/2023YeGIAnDe)  [paper](https://ieeexplore.ieee.org/document/10604429)
+
 [56] Concealing Sensitive Samples against Gradient Leakage in Federated Learning [GitHub](https://github.com/JingWu321/DCS-2)  [paper](https://ojs.aaai.org/index.php/AAAI/article/view/30171)
+
 [57] Rethinking Privacy Preserving Deep Learning: How to Evaluate and Thwart Privacy Attacks [paper](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_3)
+
 [58] PRECODE - A Generic Model Extension To Prevent Deep Gradient Leakage [GitHub](https://github.com/dAI-SY-Group/PRECODE) [paper](https://openaccess.thecvf.com/content/WACV2022/html/Scheliga_PRECODE_-_A_Generic_Model_Extension_To_Prevent_Deep_Gradient_WACV_2022_paper.html#:~:text=%5B-,paper,-%5D%20%5Bsupp%5D) 
+
 [59] Gradient Leakage Defense with Key-Lock Module for Federated Learning [GitHub](https://github.com/Rand2AI/FedKL)  [paper](https://arxiv.org/abs/2305.04095)
 
