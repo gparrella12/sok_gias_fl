@@ -4,7 +4,7 @@
 
 
 
-This repository hosts and maintains up-to-date systematization of Gradient Inversion Attacks and defenses in Federated Learning, following the categorization and threat model taxonomy introduced in our paper.
+This repository hosts and maintains up-to-date systematization of Gradient Inversion Attacks and defenses in Federated Learning, following the categorization and threat model taxonomy introduced in our paper "SoK: Gradient Inversion Attacks in Federated Learning" published in USENIX Security 2025.
 
 The tables are structured to provide a clear, comparative overview of the state-of-the-art, including:
 - **Attack techniques** and their properties
