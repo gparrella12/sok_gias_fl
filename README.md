@@ -29,7 +29,7 @@ If you find this repository useful for your research, please consider citing our
   author    = {Vincenzo Carletti and Pasquale Foggia and Carlo Mazzocca and Giuseppe Parrella and Mario Vento},
   booktitle = {34th USENIX Security Symposium (USENIX Security 25)},
   year      = {2025},
-  url = {https://www.usenix.org/conference/usenixsecurity25/presentation/carletti},
+  url       = {https://www.usenix.org/conference/usenixsecurity25/presentation/carletti},
   publisher = {USENIX Association},
 }
 ```
