@@ -112,71 +112,74 @@ If you find this repository useful for your research, please consider citing our
 **References:**  
 [1] Deep Leakage from Gradients. NeurIPS. [paper](https://arxiv.org/abs/1906.08935)  
 
-[2] iDLG: Improved Deep Leakage from Gradients. ECCV. [paper](https://arxiv.org/abs/2001.02610)  
+[2] iDLG: Improved Deep Leakage from Gradients. [paper](https://arxiv.org/abs/2001.02610)  
 
-[3] Inverting Gradients - How Easy is it to Break Privacy in Federated Learning? NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/c4ede56bbd98819ae6112b20ac6bf145-Paper.paper) 
+[3] Inverting Gradients - How Easy is it to Break Privacy in Federated Learning? [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/c4ede56bbd98819ae6112b20ac6bf145-Paper.paper) 
  
-[4] See Through Gradients: Image Batch Recovery via GradInversion. CVPR.  [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.paper)
+[4] See Through Gradients: Image Batch Recovery via GradInversion.  [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.paper)
 
-[5] GradViT: Gradient Inversion of Vision Transformers. CVPR. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hatamizadeh_GradViT_Gradient_Inversion_of_Vision_Transformers_CVPR_2022_paper.paper)
-[6] Data Leakage in Federated Averaging. TMLR.  [paper](https://openreview.net/paper?id=e7A0B99zJf)
+[5] GradViT: Gradient Inversion of Vision Transformers. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hatamizadeh_GradViT_Gradient_Inversion_of_Vision_Transformers_CVPR_2022_paper.paper)
 
-[7] Do Gradient Inversion Attacks Make Federated Learning Unsafe? IEEE TMI. [paper](https://ieeexplore.ieee.org/abstract/document/10025466)
+[6] Data Leakage in Federated Averaging. [paper](https://openreview.net/paper?id=e7A0B99zJf)
 
-[8] Cocktail Party Attack: Breaking Aggregation-based Privacy in Federated Learning Using Independent Component Analysis. ICML.  [paper](https://proceedings.mlr.press/v202/kariyappa23a/kariyappa23a.paper)
+[7] Do Gradient Inversion Attacks Make Federated Learning Unsafe? [paper](https://ieeexplore.ieee.org/abstract/document/10025466)
 
-[9] Usynin, D., et al. (2023). Beyond Gradients: Exploiting Adversarial Priors in Model Inversion Attacks. ACM TOPS.  [paper](https://dl.acm.org/doi/full/10.1145/3592800)
+[8] Cocktail Party Attack: Breaking Aggregation-based Privacy in Federated Learning Using Independent Component Analysis.  [paper](https://proceedings.mlr.press/v202/kariyappa23a/kariyappa23a.paper)
 
-[10] E2EGI: End-to-End Gradient Inversion in Federated Learning. IEEE JBHI.  [paper](https://ieeexplore.ieee.org/abstract/document/9878027)
+[9] Usynin, D., et al. (2023). Beyond Gradients: Exploiting Adversarial Priors in Model Inversion Attacks. [paper](https://dl.acm.org/doi/full/10.1145/3592800)
 
-[11] High-Fidelity Gradient Inversion in Distributed Learning. AAAI.  [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29975)
+[10] E2EGI: End-to-End Gradient Inversion in Federated Learning. [paper](https://ieeexplore.ieee.org/abstract/document/9878027)
 
-[12] Temporal Gradient Inversion Attacks with Robust Optimization. IEEE TDSC.  [paper](https://ieeexplore.ieee.org/abstract/document/10848255)
+[11] High-Fidelity Gradient Inversion in Distributed Learning. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29975)
 
-[13] Using Highly Compressed Gradients in Federated Learning for Data Reconstruction Attacks. IEEE TIFS.  [paper](https://ieeexplore.ieee.org/abstract/document/10003066)
+[12] Temporal Gradient Inversion Attacks with Robust Optimization. [paper](https://ieeexplore.ieee.org/abstract/document/10848255)
 
-[14] Gradient Obfuscation Gives a False Sense of Security in Federated Learning. USENIX Security.  [paper](https://www.usenix.org/system/files/usenixsecurity23-yue.paper)
+[13] Using Highly Compressed Gradients in Federated Learning for Data Reconstruction Attacks. [paper](https://ieeexplore.ieee.org/abstract/document/10003066)
 
-[15] GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks? ICASSP.  [paper](https://ieeexplore.ieee.org/abstract/document/10445924)
+[14] Gradient Obfuscation Gives a False Sense of Security in Federated Learning. [paper](https://www.usenix.org/system/files/usenixsecurity23-yue.paper)
 
-[16] Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion. AAAI.  [paper](https://ojs.aaai.org/index.php/AAAI/article/view/34829)
+[15] GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks? [paper](https://ieeexplore.ieee.org/abstract/document/10445924)
 
-[17] Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning. IEEE INFOCOM.  [paper](https://ieeexplore.ieee.org/abstract/document/8737416)
+[16] Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/34829)
 
-[18] GRNN: Generative Regression Neural Network—A Data Leakage Attack for Federated Learning. ACM TIST.  [paper](https://dl.acm.org/doi/full/10.1145/3510032)
+[17] Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning. [paper](https://ieeexplore.ieee.org/abstract/document/8737416)
 
-[19] Fast Generation-Based Gradient Leakage Attacks against Highly Compressed Gradients. IEEE INFOCOM.  [paper](https://ieeexplore.ieee.org/abstract/document/10229091)
+[18] GRNN: Generative Regression Neural Network—A Data Leakage Attack for Federated Learning. [paper](https://dl.acm.org/doi/full/10.1145/3510032)
+
+[19] Fast Generation-Based Gradient Leakage Attacks against Highly Compressed Gradients. [paper](https://ieeexplore.ieee.org/abstract/document/10229091)
 
 [20] Gradient Inversion with Generative Image Prior. NeurIPS.  [paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/fa84632d742f2729dc32ce8cb5d49733-Paper.paper)
 
-[21] Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage. CVPR. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Auditing_Privacy_Defenses_in_Federated_Learning_via_Generative_Gradient_Leakage_CVPR_2022_paper.paper) 
+[21] Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Auditing_Privacy_Defenses_in_Federated_Learning_via_Generative_Gradient_Leakage_CVPR_2022_paper.paper) 
 
-[22] GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization. ICCV.  [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_GIFD_A_Generative_Gradient_Inversion_Method_with_Feature_Domain_Optimization_ICCV_2023_paper.paper)
+[22] GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_GIFD_A_Generative_Gradient_Inversion_Method_with_Feature_Domain_Optimization_ICCV_2023_paper.paper)
 
-[23] CGIR: Conditional Generative Instance Reconstruction Attacks Against Federated Learning. IEEE TDSC.  [paper](https://ieeexplore.ieee.org/abstract/document/9980415)
+[23] CGIR: Conditional Generative Instance Reconstruction Attacks Against Federated Learning. [paper](https://ieeexplore.ieee.org/abstract/document/9980415)
 
-[24] Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models. ACM WEB Conference.  [paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645514)
-[25] R-GAP: Recursive Gradient Attack on Privacy. ICLR. [paper](https://arxiv.org/abs/2104.09453)  
+[24] Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models. [paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645514)
 
-[26] APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers. CVPR.  [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_APRIL_Finding_the_Achilles_Heel_on_Privacy_for_Vision_Transformers_CVPR_2022_paper.paper)
+[25] R-GAP: Recursive Gradient Attack on Privacy. [paper](https://arxiv.org/abs/2104.09453)  
 
-[27] SPEAR: Exact Gradient Inversion of Batches in Federated Learning. NeurIPS.  [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c13cd7feab4beb1a27981e19e2455916-Paper-Conference.paper)
-[28] Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models. ICLR.  [paper](https://arxiv.org/paper/2110.13057)
+[26] APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_APRIL_Finding_the_Achilles_Heel_on_Privacy_for_Vision_Transformers_CVPR_2022_paper.paper)
 
-[29] Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification. ICML.  [paper](https://arxiv.org/paper/2202.00580)
+[27] SPEAR: Exact Gradient Inversion of Batches in Federated Learning. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c13cd7feab4beb1a27981e19e2455916-Paper-Conference.paper)
+[28] Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models. [paper](https://arxiv.org/paper/2110.13057)
 
-[30] When the Curious Abandon Honesty: Federated Learning is Not Private. EuroS&P.  [paper](https://ieeexplore.ieee.org/abstract/document/10190537)
+[29] Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification. [paper](https://arxiv.org/paper/2202.00580)
 
-[31] Reconstructing Individual Data Points in Federated Learning Hardened with Differential Privacy and Secure Aggregation. EuroS&P.  [paper](https://ieeexplore.ieee.org/abstract/document/10190489)
+[30] When the Curious Abandon Honesty: Federated Learning is Not Private. [paper](https://ieeexplore.ieee.org/abstract/document/10190537)
 
-[32] The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning. CVPR.  [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_The_Resource_Problem_of_Using_Linear_Layer_Leakage_Attack_in_CVPR_2023_paper.paper)
+[31] Reconstructing Individual Data Points in Federated Learning Hardened with Differential Privacy and Secure Aggregation. [paper](https://ieeexplore.ieee.org/abstract/document/10190489)
 
-[33] LOKI: Large-scale Data Reconstruction Attack Against Federated Learning Through Model Manipulation. IEEE S&P.  [paper](https://ieeexplore.ieee.org/abstract/document/10646724)
-[34] Maximum Knowledge Orthogonality Reconstruction with Gradients in Federated Learning. WACV. [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Maximum_Knowledge_Orthogonality_Reconstruction_With_Gradients_in_Federated_Learning_WACV_2024_paper.paper) 
+[32] The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning. [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_The_Resource_Problem_of_Using_Linear_Layer_Leakage_Attack_in_CVPR_2023_paper.paper)
 
-[35] Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning. ICLR.  [paper](https://arxiv.org/paper/2306.03013)
+[33] LOKI: Large-scale Data Reconstruction Attack Against Federated Learning Through Model Manipulation. [paper](https://ieeexplore.ieee.org/abstract/document/10646724)
 
-[36] Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction. NDSS.  [paper](https://www.ndss-symposium.org/wp-content/uploads/2025-644-paper.paper)
+[34] Maximum Knowledge Orthogonality Reconstruction with Gradients in Federated Learning. [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Maximum_Knowledge_Orthogonality_Reconstruction_With_Gradients_in_Federated_Learning_WACV_2024_paper.paper) 
+
+[35] Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning. [paper](https://arxiv.org/paper/2306.03013)
+
+[36] Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction. [paper](https://www.ndss-symposium.org/wp-content/uploads/2025-644-paper.paper)
 
 
 ## Defensive Measures
@@ -198,29 +201,29 @@ If you find this repository useful for your research, please consider citing our
 |          |                      | [50]       | 2022     | Client    | A (green) - B (green) C (orange) - H (orange) | Slices and encrypts gradients between clients | Not tested against generative model-based GIAs | [link](https://github.com/najeebjebreel/FFL) |
 |          |                      | [51]       | 2022     | Client    | A (green) - D (green) E (orange) - H (orange) | Dynamically modifies learning rate for each client to make gradient estimation difficult | Uncertain impact on optimization dynamics | ✗ |
 |          |                      | [52]       | 2023     | Client    | A (green) - B (green) C (orange) - H (orange) | Uses augmentation to balance privacy and utility | Vulnerable during early training phases [53] | [link](https://github.com/gaow0007/ATSPrivacy) |
-|          |                      | PEFL [54]      | 2023     | Client    | A (green) - B (green) C (orange) - H (orange) | Decomposes weight matrices into cascading sub-matrices creating nonlinear mapping between gradients and raw data | Not tested against generative model-based GIAs | ✗ |
-|          |                      | GIAnDe [55]    | 2024     | Client    | A (green) - B (green) C (orange) - H (orange) | Plug-and-play defense using vicinal distribution augmentation of training data | Not tested against generative model-based GIAs | [link](https://github.com/MiLab-HITSZ/2023YeGIAnDe) |
-|          |                      | DCS-2 [56]     | 2024     | Client    | A (green) - B (green) C (orange) D (green) <br> E (orange) F (green) G (orange) - H (orange) | Use visually different synthesized concealed samples to compute model updates | Introduce computational overhead to synthesize concealed images | [link](https://github.com/JingWu321/DCS-2) |
-| H        | Model Modification   | SPN [57]       | 2020     | Client    | A (green) - B (green) C (orange) - H (orange) | Parallel branch with weights hidden from server | May be vulnerable to branch simulation scenarios or recent GIAs | ✗ |
-|          |                      | PRECODE [58]   | 2022     | Client    | A (green) - B (green) C (orange) - H (orange) | Variational block adding randomness | Proven ineffective against advanced GIAs [14] | [link](https://github.com/dAI-SY-Group/PRECODE) |
-|          |                      | FedKL [59]     | 2023     | Client    | A (green) B (orange) - H (orange) | Extends model with branch hidden from server | May be vulnerable to branch simulation scenarios or recent GIAs | [link](https://github.com/Rand2AI/FedKL) |
+|          |                      |  [54]      | 2023     | Client    | A (green) - B (green) C (orange) - H (orange) | Decomposes weight matrices into cascading sub-matrices creating nonlinear mapping between gradients and raw data | Not tested against generative model-based GIAs | ✗ |
+|          |                      | [55]    | 2024     | Client    | A (green) - B (green) C (orange) - H (orange) | Plug-and-play defense using vicinal distribution augmentation of training data | Not tested against generative model-based GIAs | [link](https://github.com/MiLab-HITSZ/2023YeGIAnDe) |
+|          |                      | [56]     | 2024     | Client    | A (green) - B (green) C (orange) D (green) <br> E (orange) F (green) G (orange) - H (orange) | Use visually different synthesized concealed samples to compute model updates | Introduce computational overhead to synthesize concealed images | [link](https://github.com/JingWu321/DCS-2) |
+| H        | Model Modification   | [57]       | 2020     | Client    | A (green) - B (green) C (orange) - H (orange) | Parallel branch with weights hidden from server | May be vulnerable to branch simulation scenarios or recent GIAs | ✗ |
+|          |                      | [58]   | 2022     | Client    | A (green) - B (green) C (orange) - H (orange) | Variational block adding randomness | Proven ineffective against advanced GIAs [14] | [link](https://github.com/dAI-SY-Group/PRECODE) |
+|          |                      | [59]     | 2023     | Client    | A (green) B (orange) - H (orange) | Extends model with branch hidden from server | May be vulnerable to branch simulation scenarios or recent GIAs | [link](https://github.com/Rand2AI/FedKL) |
 
 ---
 
 **References:**  
 [37] Learning Differentially Private Recurrent Language Models. [paper](https://arxiv.org/abs/1710.06963)
 
-[38] FedCDP: Client-level Differential Privacy for Federated Learning. IEEE ICDCS [paper](https://ieeexplore.ieee.org/abstract/document/9546481)
+[38] FedCDP: Client-level Differential Privacy for Federated Learning. [paper](https://ieeexplore.ieee.org/abstract/document/9546481)
 
 [39] Does Differential Privacy Really Protect Federated Learning From Gradient Leakage Attacks? [paper](https://ieeexplore.ieee.org/abstract/document/10568968)
 
 [40] Sok: Secure aggregation based on cryptographic schemes for federated learning. [paper](https://petsymposium.org/popets/2023/popets-2023-0009.php#:~:text=popets%2D2023%2D0009-,Download%20paper,-Abstract%3A%20Secure)
 
-[41] Practical Secure Aggregation for Privacy-Preserving Machine Learning. CCS.  [paper](https://dl.acm.org/doi/abs/10.1145/3133956.3133982)
+[41] Practical Secure Aggregation for Privacy-Preserving Machine Learning. [paper](https://dl.acm.org/doi/abs/10.1145/3133956.3133982)
 
-[42] Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks. AAAI [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28460)
+[42] Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28460)
 
-[43] Preserving data privacy in federated learning through large gradient pruning. CoSe [paper](https://www.sciencedirect.com/science/article/pii/S016740482200431X)
+[43] Preserving data privacy in federated learning through large gradient pruning. [paper](https://www.sciencedirect.com/science/article/pii/S016740482200431X)
 
 [44] Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Auditing_Privacy_Defenses_in_Federated_Learning_via_Generative_Gradient_Leakage_CVPR_2022_paper.paper)
 
@@ -229,7 +232,8 @@ If you find this repository useful for your research, please consider citing our
 [46] Protect Privacy from Gradient Leakage Attack in Federated Learning [GitHub](https://github.com/wangjunxiao/GradDefense)  [paper](https://ieeexplore.ieee.org/abstract/document/9796841)
 
 [47] More Than Enough is Too Much: Adaptive Defenses Against Gradient Leakage in Production Federated Learning [paper](https://ieeexplore.ieee.org/document/10477938)
-[48] CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling. NDSS 2025 [GitHub](https://github.com/KaiyuanZh/censor) [paper](https://kaiyuanzhang.com/publications/NDSS25_Censor.paper)
+
+[48] CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling. [GitHub](https://github.com/KaiyuanZh/censor) [paper](https://kaiyuanzhang.com/publications/NDSS25_Censor.paper)
 
 [49] Digestive neural networks: A novel defense strategy against inference attacks in federated learning [paper](https://www.sciencedirect.com/science/article/pii/S0167404821002029)
 
